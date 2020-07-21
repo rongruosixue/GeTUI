@@ -1,0 +1,31 @@
+
+2019-05-15 11:05:28   今日发电：1282.0KWH，当前功率：446.0KW，正常电站数量：89,异常电站数量：18
+2019-05-15 13:00:43   {result=AppidError}
+2019-05-15 13:07:10   {result=clientId can't be null}
+2019-05-15 13:08:13   {result=AppidError}
+2019-05-15 13:10:55   {result=AppidError}
+2019-05-15 13:25:38   {taskId=OSS-0515_12b92baf90dd6fb4a82b8a79af3cbbce, result=ok, status=successed_online}
+2019-05-15 13:29:20   {taskId=OSS-0515_c9e8633be013096c9ba5a4af4eae6ab3, result=ok, status=successed_online}
+2019-05-15 13:45:52   {taskId=OSS-0515_f2273f3c37f9b9861fbe35c6b35f2db7, result=ok, status=successed_online}
+2019-05-15 13:50:05   {taskId=OSS-0515_62f85081c79f2074e36312b367bd2e86, result=ok, status=successed_online}
+2019-05-15 13:53:51   {taskId=OSS-0515_def65b729adbb054e9932da7b6f0dc7f, result=ok, status=successed_online}
+2019-05-15 13:56:19   {taskId=OSS-0515_6b53af864aa2688bdfc111a8d06de876, result=ok, status=successed_online}
+2019-05-15 14:15:33   {taskId=OSS-0515_fe8ec601b3244a959b8da8dfb9014064, result=ok, status=successed_offline}
+2019-05-15 14:35:33   {taskId=OSS-0515_149cb425a5d01c644d92c6e67300bddc, result=ok, status=successed_offline}
+2019-05-15 14:54:24   {taskId=OSS-0515_c657366d5c072b5612b3b960a2816c4c, result=ok, status=successed_offline}
+2019-05-15 15:01:52   {taskId=OSS-0515_aaf199abb4ff07291bc428d1ab00ae76, result=ok, status=successed_offline}
+2019-05-15 15:05:52   GeTuiPush.pushInformationToClient()运行异常:null
+2019-05-15 15:27:40   GeTuiPush.pushInformationToClient()运行异常:null
+2019-05-15 15:32:25   GeTuiPush.pushInformationToClient()运行异常:null
+2019-05-15 15:41:00   GeTuiPush.pushInformationToClient()运行异常:null
+2019-05-15 15:53:58   GeTuiPush.pushInformationToClient()运行异常:null
+2019-05-15 15:55:36   {taskId=OSS-0515_18409349291222e688dd7a17aad9bf0a, result=ok, status=successed_online}
+2019-05-15 16:07:24   {taskId=OSS-0515_f73abdc8a793b8758cd9f0dbf18c7bf3, result=ok, status=successed_online}
+2019-05-15 16:26:45   {taskId=OSS-0515_d5d3dc7acc51de311f1d5c087fee174a, result=ok, status=successed_offline}
+2019-05-15 16:46:38   {taskId=OSS-0515_3f7e6af7b0e8edcde06aff7b0cd866d5, result=ok, status=successed_online}
+2019-05-15 17:06:38   {taskId=OSS-0515_32849c950da1e199be6244f407aeae78, result=ok, status=successed_offline}
+2019-05-15 17:26:38   {taskId=OSS-0515_b94f94c28d7cdf71e9e495054434730f, result=ok, status=successed_offline}
+2019-05-15 17:46:38   {taskId=OSS-0515_0835abcd67aaad5bc18555dff180df9f, result=ok, status=successed_offline}
+2019-05-15 18:06:38   {taskId=OSS-0515_1f5d36c1a3b88923c126faf6b597a2f6, result=ok, status=successed_offline}
+2019-05-15 18:26:38   {taskId=OSS-0515_a49fc213af402fde898336efffb5b554, result=ok, status=successed_offline}
+2019-05-15 18:46:38   {taskId=OSS-0515_aa054b154ee025937348d08e8ca1ccfb, result=ok, status=successed_online}

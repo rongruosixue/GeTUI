@@ -1,0 +1,25 @@
+
+2020-03-04 10:50:36   文件不存在 D:\Project\MyEclipse2017\GeTUI\JAR\2020年3月4日\Mail_GeTui.xls
+
+2020-03-04 10:50:36   邮件处理完毕
+2020-03-04 10:50:36   获取clientid与账号信息完毕
+
+2020-03-04 10:50:56   getOneAccountMessage()运行异常:Illegal character in query at index 76: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=cuisheng &password=123456
+
+2020-03-04 10:51:05   getOneAccountMessage()运行异常:Illegal character in query at index 78: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=fengjiaguo &password=123456
+
+2020-03-04 10:51:08   getOneAccountMessage()运行异常:Illegal character in query at index 76: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=qinlibin &password=123456
+
+2020-03-04 10:51:14   getOneAccountMessage()运行异常:Illegal character in query at index 79: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=wangzhaobin &password=15589636581
+
+2020-03-04 10:51:16   getOneAccountMessage()运行异常:Illegal character in query at index 76: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=sjccgl01   &password=123456
+
+2020-03-04 10:51:18   getOneAccountMessage()运行异常:Illegal character in query at index 80: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=GhulamJilani &password=123456
+
+2020-03-04 10:51:36   getOneAccountMessage()运行异常:Illegal character in query at index 76: http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=xgzlcj01             &password=123456
+
+2020-03-04 10:51:56   获取所有账号电站信息完毕
+
+2020-03-04 10:52:25   推送完成所有个推信息
+
+2020-03-04 10:52:25   完成本次账号故障信息推送

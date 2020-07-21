@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/fastjson-1.2.56.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/fluent-hc-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/httpclient-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/httpclient-cache-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/httpclient-osgi-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/httpclient-win-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/httpmime-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/tomcat-juli.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="maven.deps"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/gexin-rp-fastjson-1.0.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/gexin-rp-sdk-base-4.0.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/gexin-rp-sdk-http-4.1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/gexin-rp-sdk-template-4.0.0.20.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Project/MyEclipse2017/GeTUI/extlib/mail-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
