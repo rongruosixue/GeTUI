@@ -1,5 +1,7 @@
 package com.aotai.getui;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -80,6 +82,14 @@ public class GeTuiThread extends Thread {
 		
 //		String url = "http://www.aotaicloud.com/ATSolarInfo/GeTuiQueryByAccount.action?username=";
 		String url = "http://192.168.0.40/ATSolarInfo/GeTuiQueryByAccount.action?username=";
+		
+		try {
+			String account = URLEncoder.encode(gta.getUsername(), "UTF-8");
+			gta.setUsername(account);
+		} catch (UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 		url += gta.getUsername() + "&password=" + gta.getPassword();
 		
